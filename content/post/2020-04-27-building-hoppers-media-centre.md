@@ -13,7 +13,7 @@ To understand why Figma is the best design tool for our company, you have to und
 
 Narative is a studio based in 3 different cities around the world; so right off the bat we’re already facing a challenge; geography.
 
-![Cara Setting WP Rocket](/images/hero-2.jpg)
+![Cara Setting WP Rocket](/images/cara-setting-wp-rocket.webp)
 
 We came across Figma a few weeks before engaging in our first project. It’s worth noting that, I’ve been using Sketch for several years before Narative, and getting out of your comfort zone can be scary.
 
