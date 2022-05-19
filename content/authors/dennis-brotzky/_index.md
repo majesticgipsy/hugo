@@ -1,8 +1,7 @@
 ---
-title: Dennis Brotzky
+title: Narwastu Nagoro
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  7 Tahun lebih menekuni Web Developer dan juga pengembangan website berbasis WordPress. Saya juga mahir dalam Search Engine Optimization.
 avatar: /images/dennis-brotzky.jpg
 featured: true
 social:
