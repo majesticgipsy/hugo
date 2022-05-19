@@ -46,6 +46,9 @@ You may be thinking that running a full-fledged design app from the web has huge
 
 I’ve always had full-spec computers running Sketch, still, ever so often I’d run into performance hiccups or memory drainage. That’s never happened with Figma, which is pretty magical.
 
+[Situs Kesehatan Mental dan Jiwa]({{< ref "https://hcvmedi.com/" >}} "Situs Kesehatan Mental dan Jiwa")
+
+
 I continually forget that I’m running a huge project in a “webpage”, and as soon as I remember, it always blows my mind because of how fast it is.
 Components and styles
 This is a feature that most product design tools have, but for some reason, it’s slightly more polished on Figma.
@@ -77,6 +80,9 @@ Back to my initial point, collaboration is key for a company like Narative. Espe
 It’s tough to express just how efficient we’ve become, with everyone having access to one single file, at the same time.
 I design simultaneously with our copywriter, while our developer watches our progress, providing relevant comments. Again, it’s magical. Exporting images, SVGs, colors, and even CSS styles, is as simple as right-clicking and copying.
 
+[Spirit Keeping]({{< ref "https://cancermedph.com/" >}} "Spirit Keeping")
+
+
 ## Conclusion
 
 Figma is not only a full-fledged design tool but the best I’ve used in years. It speaks volumes regarding just how much its creators considered the future.
@@ -84,6 +90,9 @@ Figma is not only a full-fledged design tool but the best I’ve used in years. 
 Witnessing forward-thinking products is not only refreshing but extremely inspirational to know there are teams working hard to support companies such as Narative to succeed. From drafting our first ideas to real prototypes, all while reducing the friction of turning visual concepts into code.
 
 If you're still not sure, you should definitely try it out. It's free.
+
+[Travel Guide]({{< ref "https://molokaitravelcard.com/" >}} "Travel Guide")
+
 
 ```js
 import React from "react";
