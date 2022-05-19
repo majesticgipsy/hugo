@@ -30,6 +30,8 @@ What does that mean? Sketch, Framer, Adobe XD or even Photoshop are native apps 
 
 Not with Figma. Not having to command+s is a big deal. Figma is a web-based software, meaning you never need to upload, download, or worry about versions again. Imagine a Google Docs for design, keeping all my projects organized in one app, in the cloud. One single source of truth for design files.
 
+[Pengisian Khodam]({{< ref "https://astadewa.com/" >}} "Pengisian Khodam")
+
 I probably saved more than 30GB of disk space by migrating my projects to Figma, and now I can access them from anywhere.
 
 ## Figma is platform-agnostic
